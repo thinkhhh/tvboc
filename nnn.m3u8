@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/zagVLQH.png",ABN China (720p)
+https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+#EXTINF:-1 group-title="Animation;Kids" tvg-logo="https://i.imgur.com/Ul1pjUN.png",Animation Show Channel
+http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/UR9vEIN.png",Bread TV面包台 (720p)
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/U8d4Is6.png",CCTV+ 1 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/qSg862A.png",CCTV+ 2 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/MBbRdJR.png",Channel Max
+http://180.213.174.225:9901/tsfile/live/1037_1.m3u8?authid=0&key=txiptv&playlive=1
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/eJNAOpk.png",Channel Tea
+http://180.213.174.225:9901/tsfile/live/1041_1.m3u8?authid=0&key=txiptv&playlive=1
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/AuiVcyh.png",CHC Action
+http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?authid=0&key=txiptv&playlive=1
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/AwBldBE.png",CHC Home Theater
+http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?authid=0&key=txiptv&playlive=1
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/H3jKTG7.png",DOX Surround
+http://180.213.174.225:9901/tsfile/live/1032_1.m3u8?authid=0&key=txiptv&playlive=1
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/XTK002H.png",DOX Yaqu
+http://180.213.174.225:9901/tsfile/live/1033_1.m3u8?authid=0&key=txiptv&playlive=1
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/ztWI6Nl.png",DOX Yijia
+http://180.213.174.225:9901/tsfile/live/1031_1.m3u8?authid=0&key=txiptv&playlive=1
+#EXTINF:-1 group-title="News" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv1.jpg",QTV-1
+http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv2.jpg",QTV-2
+http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv3.jpg",QTV-3
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv4.jpg",QTV-4
+http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv5.jpg",QTV-5
+http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
+#EXTINF:-1 group-title="Kids;Lifestyle" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv6.jpg",QTV-6
+http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/mfZOYZI.png",TV5Monde Pacifique (1080p)
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/ow1HArj.png",TVE Internacional Europe-Asia
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/XCTZkoq.png",VOA美国之音
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.tvchinese.net/uploads/tv/weihaitv1.jpg",Weihai Comprehensive News Channel
+http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.tvchinese.net/uploads/tv/weihaihaiyang.jpg",Weihai Ocean Channel
+http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://www.tvchinese.net/uploads/tv/weihaitv2.jpg",Weihai Public Channel
+http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/V0v3ST5.png",Xizang TV Chinese
+http://php.jdshipin.com/xztv.php?id=ws
+#EXTINF:-1 group-title="General" tvg-logo="https://www.tvchinese.net/uploads/tv/ybtv2.jpg",Yanbian Cinese Comprehensive Channel
+https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/gBUlAfX.png",Yanbian TV 1
+https://live.ybtvyun.com/video/s10016-ca5bdbc3f06d/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/XOL1Hph.png",Zhejiang TV International
+https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/DTtK0z7.png",РТР Планета Азия
+https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/WJeOjFE.png",房山电视台 (576p)
+https://live.funhillrm.com/2/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/MbJUmZS.png",浙江少儿 (1080p)
+https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/9JfZJRv.png",滁州市广播电视台 公共频道 (400p)
+http://live.cztv.cc:85/live/ggpd.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/9JfZJRv.png",滁州市广播电视台 新闻综合频道 (1080p)
+http://live.cztv.cc:85/live/xwpd.m3u8
+#EXTINF:-1 group-title="Education;Science" tvg-logo="https://i.imgur.com/9JfZJRv.png",滁州市广播电视台 科教频道 (400p)
+http://live.cztv.cc:85/live/sjpd.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/fXXongR.png",通州电视台 (720p)
+http://pull.dayuntongzhou.com/live/tztv.m3u8
