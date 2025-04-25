@@ -27,8 +27,6 @@ https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8?zjiangsd
 #EXTINF:-1,浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/浙江卫视" tvg-id="浙江卫视" tvg-name="浙江卫视",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1,西宁新闻综合
 https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 #EXTINF:-1,西宁生活服务
@@ -39,8 +37,6 @@ https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
 https://liveout.xntv.tv/a65jur/96iln2.m3u8#@http://cm-wshls.homecdn.com/live/5a296.dlv#@http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8#@http://cm-wshls.homecdn.com/live/5a296.m3u8#rtmp://liveout.xntv.tv/a65jur/96iln2
 #EXTINF:-1,西宁生活服务
 https://liveout.xntv.tv/a65jur/90p2i1.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/三沙卫视" tvg-id="三沙卫视" tvg-name="三沙卫视",三沙卫视
-https://livessws.hnntv.cn/live/ssws_01hnntv.m3u8?_upt=18df2caf1744908993
 #EXTINF:-1,广元综合
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 #EXTINF:-1,萧山生活
@@ -91,8 +87,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8#http://ali-m-l.c
 https://stream.thmz.com/wxtv4/playlist.m3u8
 #EXTINF:-1,无锡经济
 https://stream.thmz.com/wxtv5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7",CCTV-7
-https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
 #EXTINF:-1,浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/720p.m3u8
 #EXTINF:-1,湖州新闻综合
@@ -105,8 +99,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8\r\n
 https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 #EXTINF:-1,龙游新闻综合
 https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/内蒙古卫视" tvg-id="内蒙古卫视" tvg-name="内蒙古卫视",内蒙古卫视
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1,邢台综合
 https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 #EXTINF:-1,广州综合
@@ -165,8 +157,6 @@ https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.
 https://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 #EXTINF:-1,铜陵新闻综合
 https://gnhls.qingmei.tv/live/tlxw.m3u8?volcTime=1753081509&volcSecret=10999ac48fb965e95cd8ac9bbbf625ef
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/云南卫视" tvg-id="云南卫视" tvg-name="云南卫视",云南卫视
-https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
 #EXTINF:-1,泸县新闻综合
 https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1,广州综合
@@ -233,8 +223,6 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425
 http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1,快乐垂钓
 http://nas.hssvm.com:8888/udp/225.1.2.18:5002
-#EXTINF:-1,内蒙古蒙语卫视
-https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
 #EXTINF:-1,东阳影视生活
 http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 #EXTINF:-1,卡拉玛依影视
@@ -820,3 +808,9 @@ https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-id="山东教育卫视" tvg-logo="https://livecdn.zbds.top/logo/山东教育.png" group-title="卫视频道", 山东教育卫视
 http://58.57.40.22:9901/tsfile/live/1026_1.m3u8
+#EXTINF:-1 tvg-name="三沙卫视" tvg-id="三沙卫视" tvg-logo="https://livecdn.zbds.top/logo/三沙卫视.png" group-title="卫视频道", 三沙卫视
+https://livessws.hnntv.cn/live/ssws_01hnntv.m3u8?_upt=18df2caf1744908993
+#EXTINF:-1 tvg-name="云南卫视" tvg-id="云南卫视" tvg-logo="https://livecdn.zbds.top/logo/云南卫视.png" group-title="卫视频道", 云南卫视
+https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-id="内蒙古卫视" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/内蒙古卫视" group-title="卫视频道", 内蒙古卫视
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
